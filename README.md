@@ -1,13 +1,12 @@
 <h1 align="center">Hi ✌️, I'm Francesco</h1>
 <h3 align="center">A lovely developer from Turin, Italy</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codenamefrance" alt="codenamefrance" /></a> </p>
 
 - 👨‍💻 Currently engaged with **Politecnico di Torino**
 
 - 💬 Ask me about **Python, C, and other things...**
 
-- 📫 How to reach me **francescopiocorrado@outlook.it**
+- 📫 Reach me at **francescopiocorrado@outlook.it**
 
 - ⚡ Fun fact **You didn't search for this profile**
 
